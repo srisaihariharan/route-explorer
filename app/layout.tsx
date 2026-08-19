@@ -3,8 +3,8 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'v0 App',
-  description: 'Created with v0',
+  title: 'wayfinder — your city, your way',
+  description: 'Compare every route, understand the trade-offs, and choose your way across the city.',
   generator: 'v0.app',
   icons: {
     icon: [
